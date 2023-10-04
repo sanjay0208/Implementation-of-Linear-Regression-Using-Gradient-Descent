@@ -101,17 +101,31 @@ print("For population = 70000,we predict a profit of $"+str(round(predict2,0)))
 
 ## Output:
 
+## PROFIT PREDICTION GRAPH:
+
 ![Screenshot 2023-09-17 085931](https://github.com/RENUGASARAVANAN/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119292258/c99c236f-fbd2-4b93-b94d-88b2bae00e67)
+
+## COMPUTE COST VALUE:
 
 ![Screenshot 2023-09-17 090047](https://github.com/RENUGASARAVANAN/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119292258/8ac9bf73-a895-4de9-88ce-b579fe141387)
 
+## h(x) VALUE:
+
 ![Screenshot 2023-09-17 090059](https://github.com/RENUGASARAVANAN/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119292258/8da5cc0c-9dc2-42a1-baae-175734b8cae7)
+
+## COST FUNCTION USING GRADIENT DESCENT GRAPH:
 
 ![Screenshot 2023-09-17 090147](https://github.com/RENUGASARAVANAN/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119292258/1b30479a-e925-4dbf-ba31-385d3821b8c0)
 
+## PROFIT PREDICTION GRAPH:
+
 ![Screenshot 2023-09-17 090200](https://github.com/RENUGASARAVANAN/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119292258/2a1fe829-35cf-4a3c-89d5-7cbb307dea5c)
 
+## PROFIT FOR THE POPULATION 35,000:
+
 ![Screenshot 2023-09-17 090252](https://github.com/RENUGASARAVANAN/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119292258/2c26ebc8-59d7-43dc-bd4a-68ef58996b35)
+
+## PROFIT FOR THE POPULATION 70,000:
 
 ![Screenshot 2023-09-17 090259](https://github.com/RENUGASARAVANAN/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119292258/30fd7a04-a6d2-4a03-a17f-53340d4f6363)
 
